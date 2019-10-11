@@ -9,16 +9,16 @@
 - Case titanic ini berada pada folder Case titanic yang terdiri dari code dan dataset.
 - Case titanic ini kita dituntut untuk menjawab beberapa pertanyaan sesuai dengan soal yang ada.
 - Beberapa pertanyaan yang harus dijawab adalah:
-  I. What is the dimension (col, row) of the data frame?
-  II. How to know data type of each variable?
-  III. How many passengers survived (Survived=1) and not-survived (Survived=0)?
-  IV. How to drop column ‘Name’ from the data frame?
-  V. Add one new column called ‘family’ to represent number of family-member aboard (hint: family = sibsp + parch)
-  VI. As shown, columns ‘Age’ contains missing values. Please add new column named ‘Age_miss’ to indicate whether Age is missing or not (Age_miss = ‘YES’ for missing value and ‘NO’ for non-missing value).
-  VII. Please fill Age missing value with means of existing Age values
-  VIII. What is the maximum passenger Age who survived from the tragedy?
-  IX. How many passengers survived from each ‘PClass’?
-  X. How to randomly split the data frame into 2 parts (titanic1 and titanic2) with proportion of 0.7 for tttanic1 and 0.3 for titanic2 ?
+  - I. What is the dimension (col, row) of the data frame?
+  - II. How to know data type of each variable?
+  - III. How many passengers survived (Survived=1) and not-survived (Survived=0)?
+  - IV. How to drop column ‘Name’ from the data frame?
+  - V. Add one new column called ‘family’ to represent number of family-member aboard (hint: family = sibsp + parch)
+  - VI. As shown, columns ‘Age’ contains missing values. Please add new column named ‘Age_miss’ to indicate whether Age is missing or not (Age_miss = ‘YES’ for missing value and ‘NO’ for non-missing value).
+  - VII. Please fill Age missing value with means of existing Age values
+  - VIII. What is the maximum passenger Age who survived from the tragedy?
+  - IX. How many passengers survived from each ‘PClass’?
+  - X. How to randomly split the data frame into 2 parts (titanic1 and titanic2) with proportion of 0.7 for tttanic1 and 0.3 for titanic2 ?
 
 # Case Water
 -------------------------------------------------------------------------------------------------------
